@@ -14,7 +14,7 @@ We trained **sentencepiece** model with bengali wiki data and saved our bengali 
 
 * preprocess wiki data
 
-We download bengali wiki dump data and extract using bengali_wikiextractor.
+We download bengali wiki dump data and extract using [bengali_wikiextractor](https://github.com/sagorbrur/bn_wikiextractor).
 
 We preprocess bengali wiki data into a text file with **single sentence** per line. 
 
