@@ -6,6 +6,8 @@ SentencePiece is an unsupervised text tokenizer and detokenizer mainly for Neura
 ## What we did?
 We trained **sentencepiece** model with bengali wiki data and saved our bengali sentencepiece model. 
 
+NB: **See [bnlp](https://github.com/sagorbrur/bnlp) more update version about bengali sentencepiece**
+
 ## Steps
 
 * sentencepiece installation
